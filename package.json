@@ -1,0 +1,27 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "author": "Janaina Santos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Janainaps/Ecoleta1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Janainaps/Ecoleta1/issues"
+  },
+  "homepage": "https://github.com/Janainaps/Ecoleta1#readme",
+  "description": ""
+}
