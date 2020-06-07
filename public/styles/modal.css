@@ -79,3 +79,47 @@
 #modal form button:hover {
     background-color: #2fb85e;
 }
+
+/*Isto é para o modal created-point.html*/
+#modal.point .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#modal.point h1 {
+    color: white;
+    margin-top: 32px;
+}
+
+/*Isto é para o modal erro-cadastro.html*/
+#modal.erro .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Roboto;
+}
+
+#modal.erro h1.ops {
+    color: red;
+    margin-top: 32px;
+    margin-bottom: 10px;
+}
+
+#modal.erro h1 {
+    color:white;
+    margin-top: 32px;
+    text-align: center;
+    line-height: 50px;
+}
+
+
+#modal.erro .content img{
+    width: 100px;
+    height: 100px;
+}
+
+#modal.erro p.flaticon {
+    font-size: 8px;
+    margin-top: 100px;
+}
