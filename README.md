@@ -10,7 +10,7 @@
 
 ## :sparkles: Como executar a aplicação
 #### Clone o repositório a partir do terminal :pager:
-###### git clone https://github.com/Janainaps/Ecoleta
+###### git clone https://github.com/thejanesol/Ecoleta
 #### Entre na pasta do projeto
 ###### cd Ecoleta
 #### Instale as dependências
