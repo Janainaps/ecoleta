@@ -12,7 +12,7 @@
 #### Clone o repositório a partir do terminal :pager:
 ###### git clone https://github.com/Janainaps/Ecoleta
 #### Entre na pasta do projeto
-###### cd ecoleta
+###### cd Ecoleta
 #### Instale as dependências
 ###### npm install
 #### Execute a aplicação
