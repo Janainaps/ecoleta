@@ -6,7 +6,7 @@
 <p align="justify"> Projeto desenvolvido durante a <a href="https://www.notion.so/Front-end-7c8a1a9a6df547058f1473f899a3b9c4">Next Level Week trilha Starter</a>, evento online de imersão ao desenvolvimento web promovida pela RocketSeat. A proposta é uma aplicação responsiva que cadastra pontos de coleta para descarte de resíduos específicos e disponibiliza os pontos cadastrados de acordo com a localização. </p>
 
 ## :sparkles: Screenshot
-<img src="https://github.com/Janainaps/Ecoleta/blob/master/Screenshot.jpg">
+<img src="https://github.com/thejanesol/Ecoleta/blob/master/Screenshot.jpg">
 
 ## :sparkles: Como executar a aplicação
 #### Clone o repositório a partir do terminal :pager:
